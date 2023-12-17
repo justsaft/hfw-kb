@@ -1,6 +1,1088 @@
 ##### Source & Credits
 - Authors: everydayaussie and contributors
 - Link: https://docs.google.com/document/d/1RCRbuLAjNy1eb5SsqSA2210UpZ0m60otYGGxsionIDw/edit
-- Accessed 8/29/2023
+- Accessed 12/17/2023
+
+Message everydayaussie#9547 in the Horizon Speedrunning discord server if you want to add something or let me know of any errors
+
+This list could contain coils that I am missing:
+https://www.reddit.com/r/horizon/comments/tey57e/unlockable_weaves_what_armor_they_come_from/
 
 
+### Coil List
+- Acid +6%
+- Acid Defence +4%
+- Adhesive +6%
+- Concentration Regen +1
+- Critical Hit Chance +6%
+- Critical Strike+ +1
+- Deep Concentration +1
+- Explosive Damage +5%
+- Fire +6%
+- Fire Defence +4%
+- Frost +6%
+- Frost Defence +4%
+- Heavy Lifter +1
+- Heavy Weapon+ +1
+- Impact Damage +5%
+- Knockdown Power +6%
+- Lasting Override +1
+- Low Health Defence +1
+- Low Health Ranged +1
+- Low Profile +1
+- Machine Damage +1
+- Machine Elemental+ +1
+- Medicine Capacity +1
+- Melee Damage +1
+- Melee Defence +4%
+- Mounted Defence +1
+- Overdraw Damage +6%
+- Plasma Defence +4%
+- Potent Medicine +1
+- Potion Proficiency +1
+- Power Attack+ +1
+- Purgewater Defence +4%
+- Quiet Movement +1
+- Quiet Spear +1
+- Ranged Defence +4%
+- Resonator Blast+ +1
+- Resonator Buildup +1
+- Resonator Damage +1
+- Shock +6%
+- Shock Defence +4%
+- Silent Strike Gain +1
+- Silent Strike Heal +1
+- Silent Strike+ +1
+- Skilled Salvager +1
+- Smoke Bomb Capacity +1
+- Stamina Regen +1
+- Stealth Ranged+ +1
+- Tear Damage +5%
+- Trap Limit +1
+- Valor On Impact +1
+- Valor Surge Master +1
+- Weapon Stamina +1
+- Acid +15%
+- Acid and Fire +12%
+- Adhesive +15%
+- Aerial Enemy Damage +25%
+- Agility Damage +15%
+- Berserk +15%
+- Burning Enemy Damage +18%
+- Close Range Damage +25%
+- Corroding Enemy Damage +18%
+- Critical Hit Chance +15%
+- Damage Over Time +25%
+- Draw Speed +25%
+- Drenched Enemy Damage +18%
+- Explosive Damage +12%
+- Fire +15%
+- Frost +15%
+- High Ground Damage +25%
+- Impact Damage +12%
+- Instant Brittle Chance +2%
+- Instant Burning Chance +2%
+- Instant Confused Chance +1%
+- Instant Corroding Chance +2%
+- Instant Drenched Chance +1%
+- Instant Slowed Chance +2%
+- Knockdown Damage +25%
+- Knockdown Power +15%
+- Long-Ranged Damage +25%
+- Melee Follow Up +25%
+- Multiple Enemy Damage +25%
+- Overdraw Damage +15%
+- Plasma +15%
+- Plasma and Shock +12%
+- Purgewater +15%
+- Purgewater and Frost +12%
+- Purgewater and Plasma Defence +7%
+- Ranged Defence +10%
+- Reload Speed +25%
+- Sharpshot Tear Damage +100%
+- Shock +15%
+- Shocked Enemy Damage +18%
+- Stealth Damage +25%
+- Tear Damage +12%
+- Acid +9%
+- Acid Defence +10%
+- Acid Defence +9%
+- Adhesive +9%
+- Aerial Enemy Damage +15%
+- Agility Damage +10%
+- Burning Enemy Damage +12%
+- Close Range Damage +15%
+- Component Tear +15%
+- Concentration Damage +10%
+- Concentration Regen +2
+- Concentration+ +2
+- Corroding Enemy Damage +12%
+- Critical Hit Chance +10%
+- Critical Hit Damage +15%
+- Damage Over Time +15%
+- Deep Concentration +2
+- Draw Speed +15%
+- Drenched enemy Damage +12%
+- Evader +2
+- Explosive Damage +7%
+- Fire Defence +10%
+- Fire Defence +9%
+- Frost +9%
+- Frost Defence +10%
+- Frost Defence +9%
+- Heavy Lifter +2
+- Heavy Weapon+ +2
+- High Ground Damage +15%
+- Impact Damage +7%
+- Knockdown Damage +15%
+- Knockdown Power +10%
+- Lasting Override +2
+- Long-Range Damage +15%
+- Low Health Defence +2
+- Low Health Melee +2
+- Low Health Ranged +2
+- Low Health Regen +2
+- Low Profile +2
+- Machine Damage +2
+- Machine Elemental +2
+- Medicine Capacity +2
+- Melee Defence +6%
+- Melee Follow Up +15%
+- Multiple Enemy Damage +15%
+- Overdraw Damage +10%
+- Plasma Defence +10%
+- Plasma Defence +9%
+- Potent Medicine +2
+- Power Attack+ +2
+- Purgewater +9%
+- Purgewater Defence +10%
+- Purgewater Defence +9%
+- Quick Trapper +2
+- Quiet Spear +2
+- Ranged Defence +6%
+- Reload Speed +15%
+- Resilient Trapper +2
+- Resonator Blast +2
+- Resonator Buildup +2
+- Resonator Damage +2
+- Sacred Chance +2
+- Shock +9%
+- Shock Defence +10%
+- Shock Defence +9%
+- Shocked Enemy Damage +12%
+- Silent Strike Gain +2
+- Silent Strike Heal +2
+- Skilled Salvager +2
+- Smoke Bomb Capacity +2
+- Stamina Regen +2
+- Stealth Damage +15%
+- Stealth Ranged+ +2
+- Tear Damage +7%
+- Trap Limit +2
+- Valor Surge Master +2
+- Weapon Stamina+ +2
+- Instant Brittle Chance +3%
+- Instant Burning Chance +4%
+- Instant Confused Chance +2%
+- Instant Corroding Chance +4%
+- Instant Drenched Chance +2%
+- Instant Explosive Chance +2%
+- Instant Plasma Blast Chance +4%
+- Instant Slowed Chance +3%
+### NG+
+- Weapons
+   - Tears of the Land-god, Rain of Sparks, Iriv’s Downfall, Legacy’s Reach, All-Mother’s Blessing, Defiance, Brawlbreaker, The Final Chapter
+### Quests
+- Weapons
+   - The Skykiller (The Way Home), Ancestor’s Return (All 9 Relic Ruins), Tinker’s Pride (Full Stripes at all Hunting Grounds), Carja’s Bane (All 4 Gauntlet Runs), The Sun Scourge (All Rebel Camps), Wings of the Ten (All Black Boxes)
+- Outfits
+   - Socheck’s Raiment (Faro’s Tomb)
+      - Valor Surge Master +2, Deep Concentration +2, Stamina Regen +2, Lasting OVerride +2, Weapon Stamina+ +2
+      - Low Health Regen +2
+   - Tenakth Reaver (The Blood Choke)
+	- Valor on Impact +2, Low Health Valor +1, Stamina Regen +1, Weapon Stamina+ +1
+	- Heavy Lifter +2
+- Coils and Weaves
+   - Instant Burning Chance +4% (dropped from Specter Prime)
+### Coil and Weave spawn locations
+|   |   |
+|---|---|
+|Evader +2<br><br>(Can just fly in)<br><br>(Found in Oseram Forester (Melee Damage +2, Stamina Regen +1, Weapon Stamina+ +1 Resonator Blast+ +1) outfit in a box)|![](https://lh7-us.googleusercontent.com/_mSGPnWo_UTB4ILTgFyllImi8JYafclTDSgvVpWhr3MJaMZZIwKHZ1K-waWIMZryFOQosPSCKZn-zFTWw5glUf3iuLAcFoszsDVHSFdtrriIAeVFT2J4k1aUD1_V6W4rPg3HhpTPuOK0i4z2-Ki0)|
+|Low Health Valor +2<br><br>(Found in Tenakth Marshal (Heavy Weapon+ +!, Low Health Regen +1,Low Health Defence +1, Stealth Tear+) outfit in a box)|![](https://lh7-us.googleusercontent.com/KDVrAl_ODTlk1zYkNsNenltGGqUWayay1ZyXbTy7idORMhq9ajvCqbCLmqF5Tq211ivz7qViOWl7AlVhMhJ1u5tSsVOKaPmpOEfeAGXeQkX7RpBl-7e9zWH7x9dvYnHr8dwcoQywctSFmJzfmLUj)|
+|Plasma and Shock +12%<br><br>Ranged Defence +10%<br><br>(Behind the firegleam in a box)<br><br>(Think I have seen an Impact Damage +12% spawn here)<br><br>–RNG SPAWN|![](https://lh7-us.googleusercontent.com/fE2wvLtAGkNRViYrmgQygZAND1oBt5Ht46kcxn_7vvRRXXi-JFEkYK7OldX3k7p-LZ_n5le_KSVSFyY_QZCsPahCilm5STcayYuGpPs-MCMOJuP5ABAvSV_J83YUCER0slYODEp97cmBqAYRtllm)|
+|Impact Damage +12%<br><br>Purgewater and Plasma Defence +7%<br><br>(Behind the firegleam in a box)<br><br>–RNG SPAWN|![](https://lh7-us.googleusercontent.com/IVQJTFfZINf3uIPNBKrS4qNLB_1YhojHnDVvUsFxDFP4AcXAt_sv0Iqec17AWlinYMw6q963XN_YxJ_IkUVBmXa2ItHRpXOlBiY1iJqhbHY0kGb6xKFrzetCdTtZGLA4y3g8pKBoJ18Lj2BpDKVs)|
+|Impact Damage +12%<br><br>(Behind the firegleam in a box)<br><br>–RNG SPAWN|![](https://lh7-us.googleusercontent.com/4BA9LREdn3F45aAyVPCTgPe_satsuyWznOMEWyg-Nwx2b-W0g4Lq0rZFIntlmHQ43xtbqt5K1b0KAfA93Ymx-sGawxFCqiIvzZ4--xgPR2iz61CsKL4b_tTeE7KvZFmWSZTOOOU4a7J_KS0LFVJ5)|
+|Impact Damage +12%<br><br>Berserk +15%<br><br>(Under the metal flower in a box)<br><br>–RNG SPAWN|![](https://lh7-us.googleusercontent.com/zkTW59QyoSIibb5ilNjN97Tu4AgABGiLbJoX4f9Jeg-PDOSGMrsAuzSbqby7gt5g3n9TP3y-We7FHBguvo3qJ8xq8QF3x6doh_hIbr7ogydTXZj64UQ-LYYU_nycl-K9He8ugYaYYnWIKFokYi9D)|
+### Merchant Data (organized by settlement or poi)
+##### Chainscrape
+- Hunter
+   - Weapons
+      - Fire Hunter Bow, Warrior Bow. Sharpshot Bow
+   - Tools
+      - Fast Travel Pack, Smoke Bomb, Acid Trap, Blast Trap
+   - Resources
+      - Ridge-Wood, Blaze, Metalbite, Chillwater, Sparker, Machine Muscle, Blastplate, MetalBone
+- Stitcher
+   - Outfits
+      - Oseram Explorer (Melee Damage +1)
+      - Nora Huntress (Quiet Movement +1)
+- Cook
+   - Tools
+      - Local Stew (maximum health)
+      - Bitterbrew Boar (concentration regen)
+      - Pot Stomp (low health regen)
+      - Brew Battered Wedges (low health melee)
+      - Forge-Blackened Sirloin (trap limit)
+      - Meat in the Middle (stamina regen)
+      - Milduf’s Treat (melee damage)
+- Herbalist
+   - Tools
+      - Small Health Potion, Cleanse Potion
+   - Resources
+      - Wild Meat. Medicinal Berry. Eastern Beast Rib. Eastern Bird Wing. Boar Hide. Fox Hide. Jay Feather. Raccoon Hide. Squirrel Hide. Rich Meat. Boar Bone. Fox Bone. Jay Wishbone. Raccoon Bone, Squirrel Bone
+##### Redhew Quarry
+- Tools
+   - Acid Trap, Blast Trap
+- Resources
+   - Charger Horn, Scrounger Spark Coil
+##### Hunting Grounds: The Daunt
+- Hunter
+   - Fire Hunter Bow, Explosive Tripcaster, Ropecaster
+- Tools
+   - Fast Travel Pack, Smoke Bomb, Acid Trap, Blast Trap
+- Resources
+   - Blaze, Chillwater, Metalbite, Ridge-Wood, Sparker, Machine Muscle, Blast Plate, Metal Bone
+##### Barren Light
+- Hunter:
+   - Weapons
+      - Ropecaster, Explosive Tripcaster, Explosive Blastsling, Swift Warrior Bow, Knockdown Sharpshot Bow, Slicing Shredder Gauntlet
+   - Tools
+      - Fast Travel Pack, Smoke Bomb, Acid Trap, Blast Trap
+   - Resources
+      - Ridge-Wood, Blaze, Metalbite, Chillwater, Sparker, Machine Muscle, Blastplate, MetalBone
+- Stitcher
+   - Outfits
+      - Oseram Explorer (Melee Damage +1)
+      - Nora Huntress (Quiet Movement +1)
+      - Nora Sentinel (Concentration Regen +2)
+   - Coils and Weaves
+      - Low Health Defence +1
+      - Medicine Capacity +1
+      - Potent Medicine +1
+      - Potion Proficiency +1
+      - Weapon Stamina +1
+- Cook
+   - Local Stew (max health)
+   - Mesa Bread (evader)
+   - Sun Wings (critical strike+)
+   - Grazer’s Bounty (low health defence)
+   - Sun-Seared Ribs (concentration+)
+   - Sun-King’s Delight (valor surge master)
+   - Sunfall Maizement (low health ranged)
+- Herbalist
+   - Tools
+      - Small Health Potion, Cleanse Potion
+   - Resources
+      - Wild Meat. Medicinal Berry. Eastern Beast Rib. Eastern Bird Wing. Boar Hide. Fox Hide. Jay Feather. Raccoon Hide. Squirrel Hide. Rich Meat. Boar Bone. Fox Bone. Jay Wishbone. Raccoon Bone, Squirrel Bone
+##### Carja Camp
+- Hunter
+   - Weapons
+      - Acid Warrior Bow, Shearing Warrior Bow, Hardweave Sharpshot Bow
+   - Tools
+      - Fast Travel Pack, Smoke Bomb, Purgewater Trap, Vertical Shock Trap
+   - Resources
+      - Blaze, Chillwater, Echo Shell, Metalbite, Purgewater, Ridge-Wood, Sparker, Machine Muscle, Blast Plate, Metal Bone
+##### Stone’s Echo
+- Hunter
+   - Tools
+      - Fast Travel Pack, Smoke Bomb, Acid Trap, Blast Trap
+   - Resources
+      - Blaze, Chillwater, Echo Shell, Metalbite, Purgewater, Ridge-Wood, Sparker, Machine Muscle, Grzer Rotor Horn, Blast Plate, Metal Bone, Widemaw Tusk, Longleg Wing Burner
+##### Plainsong
+- Hunter
+   - Weapons
+      - Frost Hunter Bow, Slicing Hunter Bow, Acid Warrior Bow, Shearing Warrior Bow, Hardweave Sharpshot Bow, Forgefire Tripcaster, Slicing Shredder Gauntlet
+   - Tools
+      - Fast Travel Pack, Smoke Bomb, Acid Trap, Blast Trap, Purgewater Trap, Vertical Shock Trap
+   - Resources
+      - Blaze, Chillwater, Echo Shell, Metalbite, Purgewater, Ridge-Wood, Sparker, Machine Muscle, Blast Plate, Metal Bone, Piercing Spike
+- Stitcher
+   - Outfits
+      - Oseram Wayfarer
+         - Melee Damage +1, Evader +1, Potion Proficiency +1
+         - Resonator Blast +2
+      - Utaru Harvester
+         - Low Profile +1, Stealth Ranged +1, Weapon Stamina +1
+         - Quiet Spear +2
+      - Carja Shadow
+         - Potent Medicine +1, Low Health Defence +1, Medicine Capacity +1
+         - Concentration+ +2
+   - Coils and Weaves
+      - Concentration Regen +1
+      - Silent Strike Gain +1
+      - Silent Strike Heal +1
+      - Silent Strike+ +1
+      - Skilled Salvager +1
+      - Smoke Bomb Capacity +1
+      - Stamina Regen +1
+      - Stealth Ranged+ +1
+      - Trap Limit +1
+      - Valor Surge Master +1
+- Cook
+   - Local Stew (Maximum Health)
+   - Beanweed Bites (Resonator Buildup)
+   - Oldgrowth Gruel (Resonator Blast+)
+   - Sourfruit Tart (Potion Proficiency)
+   - Wheatslice Salad (Stealth Tear+)
+   - Land-God’s Gift (Weapon Stamina+)
+   - Spicy Beanweed Morsels (Stealth Ranged+)
+##### Riverhyme
+- Hunter
+   - Tools
+      - Fast Travel Pack, Smoke Bomb, Acid Trap, Blast Trap
+   - Resources
+      - Blaze, Chillwater, Echo Shell, Metalbite, Purgewater, Ridge-Wood, Sparker, Machine Muscle, Leaplasher Spark Coil, Blast Plate, Metal Bone, Clawstrider Razor Tail, Plowhorn Horn
+##### Hunting Grounds: Plainsong
+- Hunter
+   - Weapons
+      - Sun-Touched Hunter Bow, Hardweave Sharpshot Bow, Canister Ropecaster
+   - Tools
+      - Fast Travel Pack, Smoke Bomb, Acid Trap, Blast Trap, Purgewater Trap, Vertical Shock Trap
+   - Resources
+      - Blaze, Chillwater, Echo Shell, Metalbite, Purgewater, Ridge-Wood, Sparker, Machine Muscle, Blast Plate, Metal Bone, Piercing Spike
+##### Outside Latopolis
+- Hunter
+   - Weapons
+      - Frost Hunter Bow
+      - Forgefire Tripcaster
+      - Slicing Shredder Gauntlet
+   - Outfits
+      - Nora Sentinel
+         - Concentration+ +1, Stamina Regen +1, Stealth Ranged+
+         - Concentration Regen +2
+   - Tools
+      - Fast Travel Pack, Smoke Bomb, Acid Trap, Blast Trap, Purgewater Trap, Vertical Shock Trap
+   - Resources
+      - Blaze, Chillwater, Echo Shell, Metalbite, Purgewater, Ridge-Wood, Sparker, Machine Muscle, Scrapper Radar, Blast Plate, Metal Bone, Glinthawk Beak, Skydrifter Razor Tail, Bristleback Tusk
+##### Outside the Base
+- Hunter
+   - Weapons
+      - Siege Blastling, Cloudburst Blastsling, Heartshatter Spike Thrower, Slicing Hunter Bow, Beamwire Tripcaster, Shock Boltblaster, Frostbite Warrior Bow, Corrosive Blastsling, Deathrattle Warrior Bow, Delta Sharpshot Bow, Glowblast Tripcaster, Elite Ropecaster, Renegade Warrior Bow, Glowblast Sharpshot Bow, Pulverising Spike Thrower, Vanguard Hunter Bow, Seeker Hunter Bow, Wildfire Hunter Bow, Icestorm Boltblaster
+   - Outfits
+      - Oseram Wayfarer
+         - Melee Damage +1, Evader +1, Potion Proficiency +1
+         - Resonator Blast+ +2
+      - Nora Sentinel
+         - Concentration+ +1, Stamina Regen +1, Stealth Ranged+ +1
+         - Concentration Regen +2
+      - Utaru Thresher
+         - Concentration+ +2, Heavy Lifter +1, Heavy Weapon+ +1, Evader +1
+         - Potent Medicine +2
+      - Tenakth Recon
+         - Machine Damage +2, Machine Health +1, Lasting Override +1, Quiet Movement +!
+         - Machine Elemental +2
+      - Carja Behemoth Trapper
+         - Smoke Bomb Capacity +2, Trap Limit +1, Skilled Salvager +2, Quiet Movement +1
+         - Quick Trapper +2
+      - Oseram Vanguard
+         - Low Health Melee +2, Valor On Impact +1, Potion Proficiency +1, Power Attack+ +1
+         - Resonator Buildup +2
+      - Utaru Ritesinger
+         - Stealth Ranged+ +2, Second Chance +1, Deep Concentration +1, Food Duration +1
+         - Medicine Capacity +2
+      - Tenakth Marauder
+         - Low Health Melee +2, Power Attack+ +1, Melee Damage +1, Valor On Impact +1
+         - Low Health Defence +2
+      - Nora Tracker
+         - Low Profile +2, Quiet Movement +1, Quiet Spear +1, Silent Strike+ +1
+         - Smoke Bomb Capacity +2
+      - Utaru Hardweave
+         - Silent Strike+ +2, Stealth Ranged+, Valor Surge Master +1
+         - Silent Strike Heal +2
+      - Nora Valiant
+         - Concentration Regen +2, Concentration+ +1, Weapon Stamina+ +1, Stamina Regen +1
+         - Low Health Ranged +2
+      - Tenakth Skirmisher
+         - Low Health Ranged +2, Low Health Valor +1, Valor Surge Master +1, Concentration Regen +1, Weapon Stamina+ +1
+         - Deep Concentration +2
+      - Oseram Striker
+         - Energized Duration +2, Resonator Blast+ +1, Resonator Buildup +1, Critical Strike+ +1
+         - Resonator Damage +2
+##### Camp Nowhere
+- Hunter
+   - Weapons
+      - Cloudburst Blastsling, Scalding Spike Thrower
+   - Tools
+      - Fast Travel Pack, Smoke Bomb, Advanced Acid Trap, Advanced Blast Trap, Advanced Purgewater Trap, Advanced Vertical Shock Trap
+   - Resources
+      - Blaze, Chillwater, Echo Shell, Glowblast, Metalbite, Purgewater, Ridge-Wood, Sparker, Stickpaste, Machine Muscle, Bellowback Sac Webbing, Blastpaste, Metal Bone, Piercing Spike, Crystal Braiding Volatile Sludge
+##### Arrowhand
+- Hunter
+   - Weapons
+      - Anchor Ropecaster, Piercing Shredder Gauntlet
+   - Coils and Weaves
+      - Acid +6%
+      - Fire +6%
+      - Knockdown Power +6%
+      - Shock +6%
+      - Tear Damage +5%
+      - Critical Hit Damage +15%
+      - Damage Over Time +15%
+      - Knockdown Damage +15%
+      - Critical Hit Chance +15%
+      - Damage Over Time +25%
+      - Purgewater and Frost +12%
+      - Tear Damage +12%
+   - Tools
+      - Fast Travel Pack, Smoke Bomb, Acid Trap, Blast Trap, Purgewater Trap, Vertical Shock Trap
+   - Resources
+      - Blaze, Chillwater, Echo Shell, Metalbite, Purgewater, Ridge-Wood, Sparker, Machine Muscle, Blast Plate, Metal Bone, Piercing Spike
+- Cook
+   - Local Stew (Maximum Health)
+   - Scorpion Skewers (Lasting Override)
+   - Spikestalk Shells (Efficient Repair)
+   - Salted Lizard Bites (Quiet Spear)
+   - Wings of the Ten (Silent Strike+)
+   - Shaved Salted Haunch (Valor Surge Master)
+   - Spikestalk Stew (Machine Damage)
+- Herbalist
+   - Tools
+      - Small Health Potion, Small Stamina Potion, Cleanse Potion, Overdraw Potion
+   - Resources
+      - Wild Meat, Medicinal Berry, Crunchy Scorpion, Desert Bird Wing, Desert Reptile Meat, Eastern Beast Rib, Eastern Bird Wing, Southern Beast Haunch, Bighorn Sheep Hide, Boar Hide, Fox Hide, Goose Feather, Horned Lizard Skin, Jay Feather, Owl Feather, Peccary Hide, Prairie Dog Hide, Rabbit Hide, Raccoon Hide, Squirrel Hide, Vulture Feather, Rich Meat, Bighorn Sheep Bone, Boar Bone, Fox Bone, Goose Wishbone, Horned Lizard Bone, Jay Wishbone, Owl Wishbone, Peccary Bone, Prairie Dog Bone, Rabbit Bone, Raccoon Bone, Squirrel Bone, Vulture Wishbone
+##### Bleeding Mark
+- Hunter
+   - Weapons
+      - Purgewater Hunter Bow, Heartshatter Spike Thrower
+   - Tools
+      - Fast Travel Pack, Smoke Bomb, Advanced Acid Trap, Advanced Blast Trap, Advanced Purgewater Trap, Advanced Vertical Shock Trap
+   - Resources
+      - Blaze, Chillwater, Echo Shell, Glowblast, Metalbite, Purgewater, Ridge-Wood, Sparker, Stickpaste, Machine Muscle, Snapmaw Sac Webbing, Spikesnout Sac Webbing, Blastpaste, Metal Bone, Piercing Spike, Crystal Braiding Volatile Sludge
+- Cook
+   - Local Stew (Maximum Health)
+   - Scorpion Skewers (Lasting Override)
+   - Spikestalk Shells (Efficient Repair)
+   - Salted Lizard Bites (Quiet Spear)
+   - Wings of the Ten (Silent Strike+)
+   - Shaved Salted Haunch (Valor Surge Master)
+   - Spikestalk Stew (Machine Damage)
+- Herbalist
+   - Tools
+      - Small Health Potion, Small Stamina Potion, Cleanse Potion, Overdraw Potion
+   - Resources
+      - Wild Meat, Medicinal Berry, Crunchy Scorpion, Desert Bird Wing, Desert Reptile Meat, Eastern Beast Rib, Eastern Bird Wing, Southern Beast Haunch, Bighorn Sheep Hide, Boar Hide, Fox Hide, Goose Feather, Horned Lizard Skin, Jay Feather, Owl Feather, Peccary Hide, Prairie Dog Hide, Rabbit Hide, Raccoon Hide, Squirrel Hide, Vulture Feather, Rich Meat, Bighorn Sheep Bone, Boar Bone, Fox Bone, Goose Wishbone, Horned Lizard Bone, Jay Wishbone, Owl Wishbone, Peccary Bone, Prairie Dog Bone, Rabbit Bone, Raccoon Bone, Squirrel Bone, Vulture Wishbone
+##### Scalding Spear
+- Hunter
+   - Weapons
+      - Purgewater Hunter Bow, Slicing Hunter Bow, Sun-Touched Hunter Bow, Frostbite Warrior Bow, Melee Warrior Bow,Siege Blastsling, Beamwire Tripcaster, Anchor Ropecaster, Plasma Boltblaster, Shock Boltblaster, Ironeater Shredder Gauntlet, Piercing Shredder Gauntlet, Vanguard Hunter Bow, Deathrattle Warrior Bow, Corrosive Blastsling
+   - Coils and Weaves
+      - Acid +6%
+      - Fire +6%
+      - Knockdown Power +6%
+      - Shock +6%
+      - Tear Damage +5%
+      - Critical Hit Chance +10%
+      - High Ground Damage +15%
+      - Knockdown Power +10%
+      - Long-Range Damage +15%
+      - Overdraw Damage +10%
+      - Reload Speed +15%
+      - Frost +15%
+      - Melee Follow Up +25%
+      - Sharpshot Tear Damage +100%
+      - Shocked Enemy Damage +18%
+      - Stealth Damage +25%
+   - Tools
+      - Fast Travel Pack, Smoke Bomb, Advanced Acid Trap, Advanced Blast Trap, Advanced Purgewater Trap, Advanced Vertical Shock Trap
+   - Resources
+      - Blaze, Chillwater, Echo Shell, Glowblast, Metalbite, Purgewater, Ridge-Wood, Sparker, Stickpaste, Machine Muscle, Blastpaste, Metal Bone, Piercing Spike, Crystal Braiding, Volatile Sludge
+- Stitcher
+   - Outfits
+      - Oseram Arrow Breaker
+         - Critical Strike+ +1, Trap Limit +1, Melee Damage +1, Resilient Trapper +1
+         - Low Health Melee +2
+      - Utaru Harvester
+         - Low Profile +1, Stealth Ranged+ +1, Weapon Stamina+ +1
+         - Quiet Spear +2
+      - Carja Shadow
+         - Potent Medicine +1, Low Health Defence +1, Medicine Capacity +!
+         - Concentration+ +2
+      - Carja Wanderer
+         - Low Health Regen +1, Quick Trapper +1, Resilient Trapper +!
+         - Trap Limit +2
+      - Tenakth Skirmisher
+         - Low Health Ranged +2, Low Health Valor +1, Valor Surge Master +1, Concentration Regen +1, Weapon Stamina+ +1
+         - Deep Concentration +2
+      - Utaru Thresher
+         - Concentration+ +2, Heavy Lifter +1, Heavy Weapon+ +1, Evader +1
+         - Potent Medicine +2
+   - Coils and Weaves
+      - Acid Defence +4%
+      - Critical Strike+ +1
+      - Deep Concentration +!
+      - Fire Defence +4%
+      - Frost Defence +4%
+      - Heavy Lifter +1
+      - Heavy Weapon+ +1
+      - Lasting Override +1
+      - Low Health Ranged +1
+      - Low Profile +1
+      - Machine Damage +1
+      - Machine Elemental+ +1
+      - Melee Defence +4%
+      - Mounted Defence +1
+      - Plasma Defence +4%
+      - Power Attack+ +1
+      - Purgewater Defence +4%
+      - Quiet Spear +1
+      - Ranged Defence +4%
+      - Resonator Blast+ +1
+      - Resonator Buildup +1
+      - Resonator Damage +1
+      - Shock Defence +4%
+      - Valor On Impact +1
+- Cook
+   - Tools
+      - Local Stew (Maximum Health)
+      - Scorpion Skewers (Lasting Override)
+      - Spikestalk Shells (Efficient Repair)
+      - Salted Lizard Bites (Quiet Spear)
+      - Wings of the Ten (Silent Strike+)
+      - Shaved Salted Haunch (Valor Surge Master)
+      - Spikestalk Stew (Machine Damage)
+- Herbalist
+   - Tools
+      - Small Health Potion, Cleanse Potion, MEdium Stamina Potion, Overdraw Potion
+   - Resources
+      - Wild Meat, Medicinal Berry, Crunchy Scorpion, Desert Bird Wing, Desert Reptile Meat, Eastern Beast Rib, Eastern Bird Wing, Southern Beast Haunch, Bighorn Sheep Hide, Boar Hide, Fox Hide, Goose Feather, Horned Lizard Skin, Jay Feather, Owl Feather, Peccary Hide, Prairie Dog Hide, Rabbit Hide, Raccoon Hide, Squirrel Hide, Vulture Feather, Rich Meat, Bighorn Sheep Bone, Boar Bone, Fox Bone, Goose Wishbone, Horned Lizard Bone, Jay Wishbone, Owl Wishbone, Peccary Bone, Prairie Dog Bone, Rabbit Bone, Raccoon Bone, Squirrel Bone, Vulture Wishbone
+##### Hidden Ember
+- Hunter
+   - Weapons
+      - Adhesive Warrior Bow, Icestorm Boltblaster, Thunderbolt Shredder Gauntlet
+   - Outfits
+      - Oseram Striker
+         - Energized Duration +2, Resonator Blast+ +1, Resonator Buildup +1, Critical Strike+ +1
+         - Resonator Damage +2
+   - Coils and Weaves
+      - Adhesive +6%
+      - Critical Hit Chance +6%
+      - Frost +6%
+      - Impact Damage +5%
+      - Overdraw Damage +6%
+      - Aerial Enemy Damage +15%
+      - Agility Damage +10%
+      - Close Range Damage +15%
+      - Component Tear +15%
+      - Draw Speed +25%
+      - Frost +15%
+      - Melee Follow Up +25%
+      - Shocked Enemy Damage +18%
+   - Tools
+      - Fast Travel Pack, Smoke Bomb, Advanced Acid Trap, Advanced Blast Trap, Advanced Purgewater Trap, Advanced Vertical Shock Trap
+   - Resources
+      - Blaze, Chillwater, Echo Shell, Glowblast, Metalbite, Purgewater, Ridge-Wood, Sparker, Stickpaste, Machine Muscle, Blastpaste, Metal Bone, Piercing Spike, Crystal Braiding, Volatile Sludge
+##### Salt Bite
+- Hunter
+   - Weapons
+      - Eventide Ropecaster, Ironeater Shredder Gauntlet
+   - Tools
+      - Fast Travel Pack, Smoke Bomb, Advanced Acid Trap, Advanced Blast Trap, Advanced Purgewater Trap, Advanced Vertical Shock Trap
+   - Resources
+      - Blaze, Chillwater, Echo Shell, Glowblast, Metalbite, Purgewater, Ridge-Wood, Sparker, Stickpaste, Machine Muscle, Blastpaste, Metal Bone, Piercing Spike, Shell-Walker Lightning Gun, Crystal Braiding, Volatile Sludge, Rollerback Hammer Tail
+- Cook
+   - Tools
+      - Local Stew (Maximum Health)
+      - Scorpion Skewers (Lasting Override)
+      - Spikestalk Shells (Efficient Repair)
+      - Salted Lizard Bites (Quiet Spear)
+      - Wings of the Ten (Silent Strike+)
+      - Salt Bite Special (Low Health Defence)
+      - Shaved Salted Haunch (Valor Surge Master)
+      - Spikestalk Stew (Machine Damage)
+- Herbalist
+   - Tools
+      - Small Health Potion, Small Stamina Potion, Cleanse Potion, Overdraw Potion
+   - Resources
+      - Wild Meat, Medicinal Berry, Crunchy Scorpion, Desert Bird Wing, Desert Reptile Meat, Eastern Beast Rib, Eastern Bird Wing, Southern Beast Haunch, Bighorn Sheep Hide, Boar Hide, Fox Hide, Goose Feather, Horned Lizard Skin, Jay Feather, Owl Feather, Peccary Hide, Prairie Dog Hide, Rabbit Hide, Raccoon Hide, Squirrel Hide, Vulture Feather, Rich Meat, Bighorn Sheep Bone, Boar Bone, Fox Bone, Goose Wishbone, Horned Lizard Bone, Jay Wishbone, Owl Wishbone, Peccary Bone, Prairie Dog Bone, Rabbit Bone, Raccoon Bone, Squirrel Bone, Vulture Wishbone
+##### The Maw of the Arena
+- Hunter
+   - Weapons
+      - Pyre Hunter Bow, Icefire Blastsling, Beamwire Tripcaster, Scalding Spike Thrower
+   - Coils and Weaves
+      - Acid +9%
+      - Burning Enemy Damage +12%
+      - Impact Damage +7%
+      - Shock +9%
+      - Shocked Enemy Damage +12%
+      - Stealth Damage +15%
+      - Acid +15%
+      - Burning Enemy Damage +18%
+      - Explosive Damage +12%
+      - Knockdown Damage +25%
+      - Multiple Enemy Damage +25%
+      - Purgewater +15%
+   - Tools
+      - Fast Travel Pack, Smoke Bomb, Advanced Acid Trap, Advanced Blast Trap, Advanced Purgewater Trap, Advanced Vertical Shock Trap
+   - Resources
+      - Blaze, Chillwater, Echo Shell, Glowblast, Metalbite, Purgewater, Ridge-Wood, Sparker, Stickpaste, Machine Muscle, Blastpaste, Metal Bone, Piercing Spike, Crystal Braiding, Volatile Sludge
+- Stitcher
+   - Outfits
+      - Oseram Arrow Breaker
+         - Critical Strike+ +1, Trap Limit +1, Melee Damage +1, Resilient Trapper +1
+         - Low Health Melee +2
+      - Oseram Wayfarer
+         - Melee Damage +1, Evader +1, Potion Proficiency +1
+         - Resonator Blast+ +2
+      - Carja Shadow
+         - Potent Medicine +1, Low Health Defence +1, Medicine Capacity +1
+         - Concentration+ +2
+      - Carja Wanderer
+         - Low Health Regen +1, Quick Trapper +1, Resilient Trapper +1
+         - Trap Limit +2
+   - Coils and Weaves
+      - Acid Defence +4%
+      - Fire Defence +4%
+      - Frost Defence +4%
+      - Melee Defence +4%
+      - Plasma Defence +4%
+      - Purgewater Defence +4%
+      - Ranged Defence +4%
+      - Shock Defence +4%
+- Cook
+   - Tools
+      - Local Stew (Maximum Health)
+      - Blood Bread (Resonator Buildup)
+      - Lowland Trail Mix (Concentration Regen)
+      - Fatty Meat Feast (Mounted Archer)
+      - Fireclaw Stew (Trap Limit)
+      - Fruit on Fire (Low Health Ranged)
+      - The Great MRE (Stamina Regen)
+- Herbalist
+   - Tools
+      - Cleanse Potion, Medium Health Potion, Medium Stamina Potion, Overdraw Potion
+   - Resources
+      - Wild Meat, Medicinal Berry, Crunchy Scorpion, Desert Bird Wing, Desert Reptile Meat, Eastern Beast Rib, Eastern Bird Wing, Southern Beast Haunch, Bighorn Sheep Hide, Boar Hide, Fox Hide, Goose Feather, Horned Lizard Skin, Jay Feather, Owl Feather, Peccary Hide, Prairie Dog Hide, Rabbit Hide, Raccoon Hide, Squirrel Hide, Vulture Feather, Rich Meat, Bighorn Sheep Bone, Boar Bone, Fox Bone, Goose Wishbone, Horned Lizard Bone, Jay Wishbone, Owl Wishbone, Peccary Bone, Prairie Dog Bone, Rabbit Bone, Raccoon Bone, Squirrel Bone, Vulture Wishbone
+- Prize Master
+   - Weapons
+      - Marshal Hunter Bow, Warden Sharpshot Bow, Rampart Blastsling, Glowblast Spike Thrower, Relentless Boltblaster, Death-Seeker’s Shadow, Forgefall, The Blast Forge
+   - Outfits
+      - Nora Thunder Warrior
+         - Concentration+ +2, Deep Concentration +1, Concentration Regen +1, Stamina Regen +1, Stealth Ranged+ +!, Heavy Weapon+ +1
+         - Weapon Stamina+ +2, Valor Surge Master +2
+      - Tenakth Vanquisher
+         - Low Health Valor +2, Low Health Melee +1, Low Health Defence +1, Evader +1, Low Health Ranged +1, Valor Surge Master +!
+         - Sacred Chance +2, Power Attack+ +2
+      - Carja Stalker Elite
+         - Trap Limit +2, Quick Trapper +1, Smoke Bomb Capacity +1, Nimble Crafter +1, Loq Profile +!, Quiet Movement +!
+         - Skilled Salvager +2, Resilient Trapper +2
+   - Coils and Weaves
+      - Instant Brittle Chance +3%
+      - Instant Burning Chance +4%
+      - Instant Explosive Chance +2%
+      - Instant Plasma Blast Chance +4%
+##### Lowland’s Path
+- Hunter
+   - Weapons
+      - Adhesive Warrior Bow, Barrage Blastsling
+   - Outfits
+      - Nora Valiant
+         - Concentration Regen +2, Concentration+ +1, Weapon stamina+ +1, Stamina Regen +1
+         - Low Health Ranged +2
+      - Utaru Hardweave
+         - Silent Strike+ +2, Stealth Ranged+ +1, Valor Surge Master +1
+         - Silent Strike Heal +2
+   - Tools
+      - Fast Travel Pack, Smoke Bomb, Advanced Acid Trap, Advanced Blast Trap, Elite Acid Trap, Elite Blast Trap, Elite Purgewater Trap, Elite Vertical Trap
+   - Resources
+      - Blaze, Chillwater, Echo Shell, Glowblast, Metalbite, Purgewater, Ridge-Wood, Sparker, Stickpaste, Machine Muscle, Elemental Clawstrider Sac Webbing, Blastpaste, Metal Bone, Piercing Spike, Clamberjaw Tail Duster, Crystal Braiding, Volatile Sludge, Stalker Stealth Generator
+##### Fenrise
+- Hunter
+   - Resources
+      - Echo Shell, Purgewater
+##### Sheerside Climb
+- Hunter
+   - Coils and Weaves
+      - Impact Damage +7%
+      - Overdraw Damage +10%
+      - Tear Damage +7%
+      - Acid Defence +10%
+      - Fire Defence +10%
+      - Frost Defence +10%
+      - Plasma Defence +10%
+      - Purgewater Defence +10%
+      - Shock Defence +10%
+   - Tools
+      - Smoke Bomb, Cleans Potion, Overdraw Potion, Advanced Acid Trap, Advanced Blast Trap, Advanced Purgewater Trap, Advanced Vertical Shock Trap, Large Health Potion, Large Stamina Potion
+   - Resources
+      - Braided Wire, Sturdy Hardplate, Blaze, Chillwater, Echo Shell, Glowblast, Metalbite, Purgewater, Ridge-Wood, Sparker, Stickpaste, Small Machine Core, Machine Muscle, Large Machine Core, Medium Machine Core, Blastpaste, Metal Bone, Piercing Spike, Crystal Braiding, Volatile Sludge
+##### Sky’s Sentry
+- Hunter
+   - Coils and Weaves
+      - Impact Damage +7%
+      - Overdraw Damage +10%
+      - Tear Damage +7%
+      - Acid Defence +10%
+      - Fire Defence +10%
+      - Frost Defence +10%
+      - Plasma Defence +10%
+      - Purgewater Defence +10%
+      - Shock Defence +10%
+   - Tools
+      - Smoke Bomb, Cleans Potion, Overdraw Potion, Advanced Acid Trap, Advanced Blast Trap, Advanced Purgewater Trap, Advanced Vertical Shock Trap, Large Health Potion, Large Stamina Potion
+   - Resources
+      - Braided Wire, Sturdy Hardplate, Blaze, Chillwater, Echo Shell, Glowblast, Metalbite, Purgewater, Ridge-Wood, Sparker, Stickpaste, Small Machine Core, Machine Muscle, Large Machine Core, Medium Machine Core, Blastpaste, Metal Bone, Piercing Spike, Crystal Braiding, Volatile Sludge
+##### Stone Crest
+- Hunter
+   - Weapons
+      - Bellowblast Spike Thrower, Hammerburst Boltblaster
+   - Tools
+      - Fast Travel Pack, Smoke Bomb, Purgewater Trap, Vertical Shock Trap, Advanced Acid Trap, Advanced Blast Trap
+   - Resources
+      - Blaze, Chillwater, Echo Shell, Glowblast, Metalbite, Purgewater, Ridge-Wood, Sparker, Stickpaste, Machine Muscle, Sunwing Shield Caster, Blastpaste, Metal Bone, Piercing Spike, Lancehorn Drill Horn, Crystal Braiding
+- Cook
+   - Tools
+      - Local Stew (Maximum Health)
+      - Mountain Caps (Lasting Override)
+      - Sheerise Mutton (Potent Medicine)
+      - Mountain Trail Bread (Mounted Defence)
+      - Sweet Fish Smash (Concentration+)
+      - Encrusted Snowbird (Heavy Weapon+)
+      - Land and Lake (Low Profile)
+- Herbalist
+   - Tools
+      - Cleanse Potion, Medium Health Potion, Medium Stamina Potion, Overdraw Potion
+   - Resources
+      - Wild Meat, Medicinal Berry, Crunchy Scorpion, Desert Bird Wing, Desert Reptile Meat, Eastern Beast Rib, Eastern Bird Wing, Southern Beast Haunch, Bighorn Sheep Hide, Boar Hide, Fox Hide, Goose Feather, Horned Lizard Skin, Jay Feather, Owl Feather, Peccary Hide, Prairie Dog Hide, Rabbit Hide, Raccoon Hide, Squirrel Hide, Vulture Feather, Rich Meat, Bighorn Sheep Bone, Boar Bone, Fox Bone, Goose Wishbone, Horned Lizard Bone, Jay Wishbone, Owl Wishbone, Peccary Bone, Prairie Dog Bone, Rabbit Bone, Raccoon Bone, Squirrel Bone, Vulture Wishbone
+##### Hunting Grounds: Sheerside Mountains
+- Hunter
+   - Weapons
+      - Frost Hunter Bow, Plasma Boltblaster, Slicing Shredder Gauntlet
+   - Tools
+      - Fast Travel Pack, Smoke Bomb, Purgewater Trap, Vertical Shock Trap, Advanced Acid Trap, Advanced Blast Trap
+   - Resources
+      - Blaze, Chillwater, Echo Shell, Glowblast, Metalbite, Purgewater, Ridge-Wood, Sparker, Stickpaste, Machine Muscle, Blastpaste, Metal Bone, Piercing Spike, Crystal Braiding
+##### Fall’s Edge
+- Hunter
+   - Weapons
+      - Seeker Hunter Bow, Delver Tripcaster
+   - Outfits
+      - Tenakth Dragoon
+         - Mounted Archer +2, Efficient Repair +1, Machine Health +1, Mounted Defence +1
+         - Lasting Override +2
+      - Oseram Striker
+         - Energized Duration +2, Resonator Blast+, Resonator Buildup +1, Critical Strike+
+         - Resonator Damage +2
+   - Tools
+      - Fast Travel Pack, Smoke Bomb, Advanced Acid Trap, Advanced Blast Trap, Elite Acid Trap, Elite Blast Trap, Elite Puregwater Trap, Elite Vertical Shock Trap
+   - Resources
+      - Blaze, Chillwater, Echo Shell, Glowblast, Metalbite, Purgewater, Ridge-Wood, Sparker, Stickpaste, Machine Muscle, Blastpaste, Metal Bone, Piercing Spike, Behemoth Force Loader, Rockbreaker Mining Claw Crystal Braiding, Volatile Sludge
+- Cook
+   - Tools
+      - Local Stew (Maximum Health)
+      - Blood Bread (Resonator Buildup)
+      - Lowland Trail Mix (Concentration Regen)
+      - Fatty Meat Feast (Mounted Archer)
+      - Fireclaw Stew (Trap Limit)
+      - Fruit on Fire (Low Health Ranged)
+      - The Great MRE (Stamina Regen)
+- Herbalist
+   - Tools
+      - Cleanse Potion, Medium Health Potion, Overdraw Potion, Large Stamina Potion
+   - Resources
+      - Wild Meat, Medicinal Berry, Coldwater Fish, Crunchy Scorpion, Desert Bird Wing, Desert Reptile Meat, Eastern Beast Rib, Eastern Bird Wing, Freshwater Fish, Jungle Bird Wing, Mountain Mutton, Saltwater Fish, Seabird Thigh, Shellfish Claw, Southern Beast Haunch, Whole Snowbird, Bass Skin, Bighorn Sheep Hide, Boar Hide, Carp Skin, Crab Shell, Duck Feather, Fox Hide, Goose Feather, Gull Feather, Horned Lizard Skin, Jay Feather, Lobster Shell, Moonfish Skin, Owl Feather, Peccary Hide, Pelican Feather, Prairie Dog Hide, Rabbit Hide, Raccoon Hide, Salmon Skin, Squirrel Hide, Vulture Feather, Rich Meat, Bass Bone, Bighorn Sheep Bone, Boar Bone, Carp Bone, Duck Wishbone, Fox Bone, Goose Wishbone, Gull Wishbone, Horned Lizard Bone, Iridescent Crab Shell, Iridescent Lobster Shell, Jay Wishbone, Moonfish Bone, Owl Wishbone, Peccary Bone, Pelican Wishbone, Prairie Dog Bone, Rabbit Bone, Raccoon Bone, Salmon Bone, Squirrel Bone, Vulture Wishbone
+##### The Bulwark
+- Hunter
+   - Weapons
+      - Pyre Hunter Bow, Frostbite Warrior Bow, Exacting Sharpshot Bow, Icefire Blastsling, Canister Ropecaster, Bellowblast Spike Thrower, Hammerburst Boltblaster, Shock Boltblaster, Ironeater Shredder Gauntlet
+   - Coils and Weaves
+      - Adhesive +5%
+      - Critical Hit Chance +6%
+      - Explosive Damage +5%
+      - Frost +6%
+      - Overdraw Damage +6%
+      - Melee Follow Up +15%
+      - Multiple Enemy Damage +15%
+      - Agility Damage +15%
+      - Close Range Damage +25%
+      - Plasma and Shock +12%
+      - Sharpshot Tear Damage +100%
+   - Tools
+      - Fast Travel Pack, Smoke Bomb, Purgewater Trap, Vertical Shock Trap, Advanced Acid Trap, Advanced Blast Trap
+   - Resources
+      - Blaze, Chillwater, Echo Shell, Glowblast, Metalbite, Purgewater, Ridge-Wood, Sparker, Stickpaste, Machine Muscle, Blastpaste, Metal Bone, Piercing Spike, Crystal Braiding
+- Stitcher
+   - Outfits
+      - Oseram Arrow Breaker
+         - Critical Strike+ +1, Trap Limit +1, Melee Damage +1, Resilient Trapper
+         - Low Health Melee +2
+      - Utaru Harvester
+         - Low Profile +1, Stealth Ranged+ +1, Weapon stamina+ +1
+         - Quiet Spear +2
+      - Carja Wanderer
+         - Low Health Regen +1, Quick Trapper +1, Resilient Trapper +!
+         - Trap Limit +2
+   - Coils and Weaves
+      - Acid Defence +4%
+      - Fire Defence +4%
+      - Frost Defence +4%
+      - Melee Defence +4%
+      - Plasma Defence +4%
+      - Purgewater Defence +4%
+      - Ranged Defence +4%
+      - Shock Defence +4%
+- Cook
+   - Tools
+      - Local Stew (Maximum Health)
+      - Mountain Caps (Lasting Override)
+      - Sheerise Mutton (Potent Medicine)
+      - Mountain Trail Bread (Mounted Defence)
+      - Sweet Fish Smash (Concentration+)
+      - Encrusted Snowbird (Heavy Weapon+)
+      - Land and Lake (Low Profile)
+- Herbalist
+   - Tools
+      - Cleanse Potion, Medium Health Potion, Medium Stamina Potion, Overdraw Potion
+   - Resources
+      - Wild Meat, Medicinal Berry, Crunchy Scorpion, Desert Bird Wing, Desert Reptile Meat, Eastern Beast Rib, Eastern Bird Wing, Southern Beast Haunch, Bighorn Sheep Hide, Boar Hide, Fox Hide, Goose Feather, Horned Lizard Skin, Jay Feather, Owl Feather, Peccary Hide, Prairie Dog Hide, Rabbit Hide, Raccoon Hide, Squirrel Hide, Vulture Feather, Rich Meat, Bighorn Sheep Bone, Boar Bone, Fox Bone, Goose Wishbone, Horned Lizard Bone, Jay Wishbone, Owl Wishbone, Peccary Bone, Prairie Dog Bone, Rabbit Bone, Raccoon Bone, Squirrel Bone, Vulture Wishbone
+##### Cliffwatch
+- Hunter
+   - Weapons
+      - Exacting Sharpshot Bow, Canister Ropecaster
+   - Tools
+      - Fast Travel Pack, Smoke Bomb, Purgewater Trap, Vertical Shock Trap, Advanced Acid Trap, Advanced Blast Trap
+   - Resources
+      - Blaze, Chillwater, Echo Shell, Glowblast, Metalbite, Purgewater, Ridge-Wood, Sparker, Stickpaste, Machine Muscle, Blastpaste, Metal Bone, Piercing Spike, Crystal Braiding
+- Cook
+   - Tools
+      - Local Stew (Maximum Health)
+      - Mountain Caps (Lasting Override)
+      - Sheerise Mutton (Potent Medicine)
+      - Mountain Trail Bread (Mounted Defence)
+      - Sweet Fish Smash (Concentration+)
+      - Encrusted Snowbird (Heavy Weapon+)
+      - Land and Lake (Low Profile)
+- Herbalist
+   - Tools
+      - Cleanse Potion, Medium Health Potion, Medium Stamina Potion, Overdraw Potion
+   - Resources
+      - Wild Meat, Medicinal Berry, Crunchy Scorpion, Desert Bird Wing, Desert Reptile Meat, Eastern Beast Rib, Eastern Bird Wing, Southern Beast Haunch, Bighorn Sheep Hide, Boar Hide, Fox Hide, Goose Feather, Horned Lizard Skin, Jay Feather, Owl Feather, Peccary Hide, Prairie Dog Hide, Rabbit Hide, Raccoon Hide, Squirrel Hide, Vulture Feather, Rich Meat, Bighorn Sheep Bone, Boar Bone, Fox Bone, Goose Wishbone, Horned Lizard Bone, Jay Wishbone, Owl Wishbone, Peccary Bone, Prairie Dog Bone, Rabbit Bone, Raccoon Bone, Squirrel Bone, Vulture Wishbone
+##### Hunting Grounds: The Raintrace
+- Hunter
+   - Weapons
+      - Purgewater Hunter Bow, Glowblast Sharpshot Bow, Thunderbolt Shredder Gauntlet
+   - Tools
+      - Fast Travel Pack, Smoke Bomb, Advanced Purgewater Trap, Advanced Vertical Shock Trap
+   - Resources
+      - Blaze, Chillwater, Echo Shell, Glowblast, Metalbite, Purgewater, Ridge-Wood, Sparker, Stickpaste, Machine Muscle, Blastpaste, Metal Bone, Piercing Spike, Crystal Braiding, Volatile Sludge
+##### Raintrance Rise
+- Hunter
+   - Weapons
+      - Adhesive Warrior Bow, Barrage Blastsling
+   - Outfits
+      - Nora Valiant
+         - Concentration Regen +2, Concentration+ +1, Weapon Stamina+ +1, Stamina Regen +1
+         - Low Health Ranged +2
+      - Utaru Hardweave
+         - Silent Strike+ +2, Stealth Ranged+ +1, Valor Surge Master +1
+         - Silent Strike Heal +2
+   - Tools
+      - Fast Travel Pack, Smoke Bomb, Advanced Acid Trap, Advanced Blast Trap, Elite Acid Trap, Elite Blast Trap, Elite Purgewater Trap, Elite Vertical Trap
+   - Resources
+      - Blaze, Chillwater, Echo Shell, Glowblast, Metalbite, Purgewater, Ridge-Wood, Sparker, Stickpaste, Machine Muscle, Elemental Clawstrider Sac Webbing, Blastpaste, Metal Bone, Piercing Spike, Clamberjaw Tail Duster, Crystal Braiding, Volatile Sludge, Stalker Stealth Generator
+##### Thornmarsh
+- Hunter
+   - Weapons
+      - Sun-Touched Hunter Bow, Melee Warrior Bow, Siege Blastsling, Piercing Shredder Gauntlet, Vanguard Hunter Bow, Wildfire Hunter Bow, Deathrattle Warrior Bow, Renegade Warrior Bow, Delta Sharpshot Bow, Glowblast Sharpshot Bow, Corrosive Blastsling, Elite Ropecaster, Pulverising Spike Thrower, Icestorm Boltblaster, Thunderbolt Shredder Gauntlet
+   - Coils and Weaves
+      - Adhesive +9%
+      - Concentration Damage +10%
+      - Corroding Enemy Damage +12%
+      - Drenched enemy Damage +12%
+      - Explosive Damage +7%
+      - Frost +9%
+      - Corroding Enemy Damage +18%
+      - Fire +15%
+      - High Ground Damage +25%
+      - Instant Brittle Chance +2%
+      - Instant Burning Chance +2%
+      - Instant Confused Chance +1%
+      - Instant Corroding Chance +2%
+      - Instant Drenched Chance +1%
+      - Instant Slowed Chance +2%
+      - Knockdown Power +15%
+      - Long-Ranged Damage +25%
+      - Overdraw Damage +15%
+      - Plasma +15%
+      - Purgewater and Frost +12%
+      - Reload Speed +25%
+      - Instant Confused Chance +2%
+      - Instant Corroding Chance +4%
+      - Instant Drenched Chance +2%
+      - Instant Slowed Chance +3%
+   - Tools
+      - Fast Travel Pack, Smoke Bomb, Advanced Acid Trap, Advanced Blast Trap, Elite Acid Trap, Elite Blast Trap, Elite Purgewater Trap, Elite Vertical Trap
+   - Resources
+      - Blaze, Chillwater, Echo Shell, Glowblast, Metalbite, Purgewater, Ridge-Wood, Sparker, Stickpaste, Machine Muscle, Blastpaste, Metal Bone, Piercing Spike, Crystal Braiding, Volatile Sludge
+- Stitcher
+   - Outfits
+      - Tenakth Recon
+         - Machine Damage +2, Machine Health +1, Lasting Override +1, Quiet Movement +!
+         - Machine Elemental+ +2
+      - Tenakth Marauder
+         - Low Health Melee +2, Power Attack+ +1, Melee Damage +1, Valor on impact +1
+         - Low Health Defense +2
+      - Nora Tracker
+         - Low Profile +2, Quiet Movement +1, Quiet Spear +1, Silent Strike+ +1
+         - Smoke Bomb Capacity +2
+      - Utaru Hardweave
+         - Silent Stike+ +2, Stealth Ranged+ +1, Valor Surge Master +1
+         - Silent Strike Heal +2
+      - Utaru Ritesinger
+         - Stealth Ranged+ +2, Second Chance +1, Deep Concentration +1, Food Duration +1
+         - Medicine Capacity +2
+      - Carja Behemoth Trapper
+         - Smoke Bomb Capacity +2, Trap Limit +1, Skilled Salvager +!, Quiet Movement +!
+         - Quick Trapper +2
+      - Tenakth Tactician
+         - Lasting Override +2, Machine Elemental+ +1, Machine Health +1, Quiet Movement +1, Mounted Archer +1, Mounted Defence +1
+         - Low Profile +2, Machine Damage +2
+      - Utaru Winterweave
+         - Quiet Movement +2, Quiet Spear +1, Low Profile +1, Smoke Bomb Capacity +1, Silent Strike+ +1, Silent Strike Heal +1
+         - Stealth Ranged+ +2, Silent Strike Gain +2
+   - Coils and Weaves
+      - Acid Defence +9%
+      - Fire Defence +9%
+      - Frost Defence +9%
+      - Melee Defence +6%
+      - Plasma Defence +9%
+      - Purgewater Defence +9%
+      - Ranged Defence +6%
+      - Shock Defence +9%
+- Cook
+   - Tools
+      - Local Stew (Maximum Health)
+      - Blood Bread (Resonator Buildup)
+      - Lowland Trail Mix (Concentration Regen)
+      - Fatty Meat Feast (Mounted Archer)
+      - Fireclaw Stew (Trap Limit)
+      - Fruit on Fire (Low Health Ranged)
+      - The Great MRE (Stamina Regen)
+- Herbalist
+   - Tools
+      - Cleanse Potion, Overdraw Potion, Large Health Potion, Large Stamina Potion
+   - Resources
+      - Wild Meat, Medicinal Berry, Coldwater Fish, Crunchy Scorpion, Desert Bird Wing, Desert Reptile Meat, Eastern Beast Rib, Eastern Bird Wing, Freshwater Fish, Jungle Bird Wing, Mountain Mutton, Saltwater Fish, Seabird Thigh, Shellfish Claw, Southern Beast Haunch, Whole Snowbird, Bass Skin, Bighorn Sheep Hide, Boar Hide, Carp Skin, Crab Shell, Duck Feather, Fox Hide, Goose Feather, Gull Feather, Horned Lizard Skin, Jay Feather, Lobster Shell, Moonfish Skin, Owl Feather, Peccary Hide, Pelican Feather, Prairie Dog Hide, Rabbit Hide, Raccoon Hide, Salmon Skin, Squirrel Hide, Vulture Feather, Rich Meat, Bass Bone, Bighorn Sheep Bone, Boar Bone, Carp Bone, Duck Wishbone, Fox Bone, Goose Wishbone, Gull Wishbone, Horned Lizard Bone, Iridescent Crab Shell, Iridescent Lobster Shell, Jay Wishbone, Moonfish Bone, Owl Wishbone, Peccary Bone, Pelican Wishbone, Prairie Dog Bone, Rabbit Bone, Raccoon Bone, Salmon Bone, Squirrel Bone, Vulture Wishbone
+##### Tide’s Reach
+- Hunter
+   - Weapons
+      - Glowblast Tripcaster, Ripsteel Shredder Gauntlet
+   - Outfits
+      - Utaru Gravesinger
+         - Evader +2, Smoke Bomb Capacity +1, Concentration Regen +1, Potion Proficiency +1
+         - Stamina Regen +2
+      - Carja Trader
+         - Trap Limit +2, Skilled Salvager +1, Shard Salvager +1, Food Duration +!
+         - Heavy Weapon+ +2
+   - Tools
+      - Fast Travel Pack, Smoke Bomb, Advanced Acid Trap, Advanced Blast Trap, Elite Acid Trap, Elite Blast Trap, Elite Purgewater Trap, Elite Vertical Trap
+   - Resources
+      - Blaze, Chillwater, Echo Shell, Glowblast, Metalbite, Purgewater, Ridge-Wood, Sparker, Stickpaste, Machine Muscle, Frostclaw Sac Webbing, Blastpaste, Metal Bone, Piercing Spike, Crystal Braiding, Volatile Sludge, Scorcher Scanning Ear
+- Cook
+   - Tools
+      - Local Stew (Maximum Health)
+      - Blood Bread (Resonator Buildup)
+      - Lowland Trail Mix (Concentration Regen)
+      - Fatty Meat Feast (Mounted Archer)
+      - Fireclaw Stew (Trap Limit)
+      - Fruit on Fire (Low Health Ranged)
+      - The Great MRE (Stamina Regen)
+- Herbalist
+   - Tools
+      - Cleanse Potion, Overdraw Potion, Large Health Potion, Large Stamina Potion
+   - Resources
+      - Wild Meat, Medicinal Berry, Coldwater Fish, Crunchy Scorpion, Desert Bird Wing, Desert Reptile Meat, Eastern Beast Rib, Eastern Bird Wing, Freshwater Fish, Jungle Bird Wing, Mountain Mutton, Saltwater Fish, Seabird Thigh, Shellfish Claw, Southern Beast Haunch, Whole Snowbird, Bass Skin, Bighorn Sheep Hide, Boar Hide, Carp Skin, Crab Shell, Duck Feather, Fox Hide, Goose Feather, Gull Feather, Horned Lizard Skin, Jay Feather, Lobster Shell, Moonfish Skin, Owl Feather, Peccary Hide, Pelican Feather, Prairie Dog Hide, Rabbit Hide, Raccoon Hide, Salmon Skin, Squirrel Hide, Vulture Feather, Rich Meat, Bass Bone, Bighorn Sheep Bone, Boar Bone, Carp Bone, Duck Wishbone, Fox Bone, Goose Wishbone, Gull Wishbone, Horned Lizard Bone, Iridescent Crab Shell, Iridescent Lobster Shell, Jay Wishbone, Moonfish Bone, Owl Wishbone, Peccary Bone, Pelican Wishbone, Prairie Dog Bone, Rabbit Bone, Raccoon Bone, Salmon Bone, Squirrel Bone, Vulture Wishbone
+##### Legacy’s Landfall
+- Hunter
+   - Weapons
+      - Glowblast Sharpshot Bow, Barrage Blastsling, Delver Tripcaster, Pulverising Spike Thrower, Ripsteel Shredder Gauntlet
+   - Coils and Weaves
+      - Corroding Enemy Damage +12%
+      - Draw Speed +15%
+      - Fire +9%
+      - Purgewater +9%
+      - Shocked Enemy Damage +12%
+      - Tear Damage +7%
+      - Acid and Fire +12%
+      - Adhesive +15%
+      - Aerial Enemy Damage +25%
+      - Drenched Enemy Damage +18%
+      - Shock +15%
+   - Tools
+      - Fast Travel Pack, Smoke Bomb, Advanced Acid Trap, Advanced Blast Trap, Elite Acid Trap, Elite Blast Trap, Elite Purgewater Trap, Elite Vertical Trap
+   - Resources
+      - Blaze, Chillwater, Echo Shell, Glowblast, Metalbite, Purgewater, Ridge-Wood, Sparker, Stickpaste, Machine Muscle, Blastpaste, Metal Bone, Piercing Spike, Crystal Braiding, Volatile Sludge
+- Stitcher
+   - Outfits
+      - Utaru Gravesinger
+         - Evader +2, Smoke Bomb Capacity +1, Concentration Regen +1, Potion Proficiency +1
+         - Stamina Regen +2
+      - Tenakth Dragoon
+         - Mounted Archer +2, Efficient Repair +1, Machine Health +1, Mounted Defence +1
+         - Lasting Override +2
+      - Nora Valiant
+         - Concentration Regen +2, Concentration+ +1, Weapon Stamina+ +1, Stamina Regen +1
+         - Low Health Ranged +2
+      - Oseram Vanguard
+         - Low Health Melee +2, Valor On Impact +1, Potion Proficiency +1, Power Attack+ +1
+         - Resonator Buildup +2
+      - Carja Trader
+         - Trap Limit +2, Skilled Salvager +1, Shard Salvager +1, Food Duration +!
+         - Heavy Weapon+ +2
+   - Coils and Weaves
+      - Acid Defence +9%
+      - Fire Defence +9%
+      - Frost Defence +9%
+      - Melee Defence +6%
+      - Plasma Defence +9%
+      - Purgewater Defence +9%
+      - Ranged Defence +6%
+      - Shock Defence +9%
+- Cook
+   - Local Stew (Maximum Health)
+   - Crab Hotpot (Quiet Spear)
+   - Ruby Sunrise (Evader)
+   - Delta Dumplings (Melee Damage)
+   - Sour Catch (Silent Strike Heal)
+   - Ceo’s Banquet (Valor Surge Master)
+   - Curd of the Ancestors (Weapon Stamina+)
+- Herbalist
+   - Tools
+      - Cleanse Potion, Overdraw Potion, Large Health Potion, Large Stamina Potion
+   - Resources
+      - Wild Meat, Medicinal Berry, Coldwater Fish, Crunchy Scorpion, Desert Bird Wing, Desert Reptile Meat, Eastern Beast Rib, Eastern Bird Wing, Freshwater Fish, Jungle Bird Wing, Mountain Mutton, Saltwater Fish, Seabird Thigh, Shellfish Claw, Southern Beast Haunch, Whole Snowbird, Bass Skin, Bighorn Sheep Hide, Boar Hide, Carp Skin, Crab Shell, Duck Feather, Fox Hide, Goose Feather, Gull Feather, Horned Lizard Skin, Jay Feather, Lobster Shell, Moonfish Skin, Owl Feather, Peccary Hide, Pelican Feather, Prairie Dog Hide, Rabbit Hide, Raccoon Hide, Salmon Skin, Squirrel Hide, Vulture Feather, Rich Meat, Bass Bone, Bighorn Sheep Bone, Boar Bone, Carp Bone, Duck Wishbone, Fox Bone, Goose Wishbone, Gull Wishbone, Horned Lizard Bone, Iridescent Crab Shell, Iridescent Lobster Shell, Jay Wishbone, Moonfish Bone, Owl Wishbone, Peccary Bone, Pelican Wishbone, Prairie Dog Bone, Rabbit Bone, Raccoon Bone, Salmon Bone, Squirrel Bone, Vulture Wishbone
+##### The Digsite (only available before you enter Thebes!)
+- Hunter
+   - Weapons
+      - Adhesive Warrior Bow, Icestorm Boltblaster, Thunderbolt Shredder Gauntlet
+   - Outfits
+      - Oseram Striker
+         - Energized Duration +2, Resonator Blast+ +1, Resonator Buildup +1, Critical Strike+ +1
+         - Resonator Damage +2
+   - Coils and Weaves
+      - Adhesive +6%
+      - Critical Hit Chance +6%
+      - Frost +6%
+      - Impact Damage +5%
+      - Overdraw Damage +6%
+      - Aerial Enemy Damage +15%
+      - Agility Damage +10%
+      - Close Range Damage +15%
+      - Component Tear +15%
+      - Draw Speed +25%
+      - Frost +15%
+      - Melee Follow Up +25%
+      - Shocked Enemy Damage +18%
+   - Tools
+      - Fast Travel Pack, Smoke Bomb, Advanced Acid Trap, Advanced Blast Trap, Advanced Purgewater Trap, Advanced Vertical Shock Trap
+   - Resources
+      - Blaze, Chillwater, Echo Shell, Glowblast, Metalbite, Purgewater, Ridge-Wood, Sparker, Stickpaste, Machine Muscle, Blastpaste, Metal Bone, Piercing Spike, Crystal Braiding, Volatile Sludge

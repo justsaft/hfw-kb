@@ -4,7 +4,8 @@
 		{"id":"db1214f569b0abef","type":"file","file":"HFW Knowledge Base/All Machines.md","x":-260,"y":-840,"width":400,"height":500},
 		{"id":"0b9399ab7ffc897f","type":"file","file":"HFW Knowledge Base/Hundo Checklist.md","x":-1140,"y":-300,"width":400,"height":540},
 		{"id":"8b9c1fab1240654d","type":"file","file":"HFW Knowledge Base/All Outfits.md","x":-1140,"y":-840,"width":400,"height":500},
-		{"id":"16efe5021add9ebd","x":-690,"y":-292,"width":400,"height":532,"type":"file","file":"HFW Knowledge Base/Speedrun Loadout.md"}
+		{"id":"16efe5021add9ebd","type":"file","file":"HFW Knowledge Base/Speedrun Loadouts.md","x":-690,"y":-300,"width":400,"height":540},
+		{"id":"ec19a7aebf63d498","x":-257,"y":-300,"width":400,"height":540,"type":"file","file":"HFW Knowledge Base/Merchant Data.md"}
 	],
 	"edges":[]
 }
