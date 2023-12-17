@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"c211e217d3a245c2","type":"file","file":"HFW Knowledge Base/All Outfit Dyes.md","x":-700,"y":-840,"width":400,"height":500},
+		{"id":"db1214f569b0abef","type":"file","file":"HFW Knowledge Base/All Machines.md","x":-260,"y":-840,"width":400,"height":500},
+		{"id":"0b9399ab7ffc897f","type":"file","file":"HFW Knowledge Base/Hundo Checklist.md","x":-1140,"y":-300,"width":400,"height":540},
+		{"id":"8b9c1fab1240654d","type":"file","file":"HFW Knowledge Base/All Outfits.md","x":-1140,"y":-840,"width":400,"height":500},
+		{"id":"16efe5021add9ebd","x":-690,"y":-292,"width":400,"height":532,"type":"file","file":"HFW Knowledge Base/Speedrun Loadout.md"}
+	],
+	"edges":[]
+}
