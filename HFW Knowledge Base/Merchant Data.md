@@ -8,14 +8,6 @@ Message everydayaussie#9547 in the Horizon Speedrunning discord server if you wa
 This list could contain coils that I am missing:
 https://www.reddit.com/r/horizon/comments/tey57e/unlockable_weaves_what_armor_they_come_from/
 
-
-## Important Items
-|Type|Item|How to get|Optimal #|Minimum #|
-|---|---|---|---|---|
-|Weave|+2 Weapon Stamina+||3|
-|Weave|+2 Evader||3|
-|Weave|Stamina Regen||3|
-
 ## Coil List
 - Acid +6%
 - Acid Defence +4%

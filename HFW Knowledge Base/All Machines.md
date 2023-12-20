@@ -1,9 +1,21 @@
+### Table of Content
+1. [[#General]]
+2. [[#Helpful Notes]]
+3. [[#Checklist]]
+4. [[#Overview Tables (WIP)]]
+	1. [[#Acquisition Machines]]
+	2. [[#Combat Machines]]
+	3. [[#Recon Machines]]
+	4. [[#Transport Machines]]
+5. [[#Additional Machines]]
+
 ## General
 This is a (almost) complete index of all machines in Horizon Forbidden West, plus some useful information.
 All Data is taken straight from the In-Game Notebook.
 > Note: Location given in Tables is just one location the machine spawns at, given as an example, but useful for 100% completion
 
 > Note: Machines under Addition Machines are not required for 100%
+
 ## Helpful Notes
 ###### Main Game
 - 44 machines total

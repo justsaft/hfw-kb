@@ -7,7 +7,21 @@
 		{"id":"8b9c1fab1240654d","type":"file","file":"HFW Knowledge Base/All Outfits.md","x":-1140,"y":-300,"width":400,"height":540},
 		{"id":"0b9399ab7ffc897f","type":"file","file":"HFW Knowledge Base/Hundo Checklist.md","x":-1140,"y":-880,"width":400,"height":540},
 		{"id":"c211e217d3a245c2","type":"file","file":"HFW Knowledge Base/All Outfit Dyes.md","x":-700,"y":-300,"width":420,"height":540},
-		{"id":"16efe5021add9ebd","type":"file","file":"HFW Knowledge Base/Speedrun Loadouts.md","x":-700,"y":-880,"width":420,"height":540}
+		{"id":"16efe5021add9ebd","type":"file","file":"HFW Knowledge Base/Speedrun Loadouts.md","x":-700,"y":-880,"width":420,"height":540},
+		{"id":"4910093e27c31f59","type":"file","file":"HFW Knowledge Base/Collectables/Vista Points.md","x":-1576,"y":420,"width":400,"height":460},
+		{"id":"fb187059481f153f","type":"text","text":"Collectables","x":-1576,"y":320,"width":250,"height":60},
+		{"id":"94ad5629233fe087","type":"text","text":"Main Checklists","x":-1576,"y":-980,"width":250,"height":60},
+		{"id":"7ef6d27cd963ff54","type":"text","text":"Speedrun Routes","x":-1576,"y":1660,"width":250,"height":60},
+		{"id":"1549f679aee62a25","type":"text","text":"Other Documentation","x":-1576,"y":960,"width":250,"height":60},
+		{"id":"3f82b46738f7806e","type":"file","file":"HFW Knowledge Base/Speedrun General Items.md","x":-1576,"y":1060,"width":656,"height":520},
+		{"id":"369fb449f65caf06","type":"file","file":"HFW Knowledge Base/External Resources.md","x":-880,"y":1060,"width":440,"height":520},
+		{"id":"f4f9981dcbab3317","x":-400,"y":1060,"width":400,"height":520,"type":"file","file":"HFW Knowledge Base/Glitches/Infinite Jumps.md"},
+		{"id":"0875faae14f24c5d","x":40,"y":1060,"width":400,"height":520,"type":"file","file":"HFW Knowledge Base/Glitches/Holes in the Map.md"},
+		{"id":"4b4d76229da9daab","x":480,"y":1060,"width":400,"height":520,"type":"file","file":"HFW Knowledge Base/Glitches/Mountain Pass OOB.md"},
+		{"id":"976759b069fe925f","x":-1140,"y":420,"width":400,"height":460,"type":"file","file":"HFW Knowledge Base/Collectables/War Totems.md"},
+		{"id":"926cba88c6c94997","type":"file","file":"HFW Knowledge Base/Speedrun Routes/Burrower% (Unofficial Category).md","x":-1576,"y":1761,"width":436,"height":560},
+		{"id":"b45d9ecf72382039","type":"file","file":"HFW Knowledge Base/Speedrun Routes/NG+ Story.md","x":-1100,"y":1762,"width":460,"height":558},
+		{"id":"c86f32a6e805e144","type":"file","file":"HFW Knowledge Base/Speedrun Routes/NG+ UH.md","x":-600,"y":1761,"width":460,"height":558}
 	],
 	"edges":[]
 }
