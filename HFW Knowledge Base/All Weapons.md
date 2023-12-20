@@ -1,6 +1,6 @@
 
-### List of Weapons
-##### Hunter Bows
+#### List of Weapons
+###### Hunter Bows
 - [ ] Hunter Bow (Starter Weapon)
 - [ ] Fire Hunter Bow
 - [ ] Strongarm Hunter Bow
@@ -19,7 +19,7 @@
 - [ ] Death-Seeker's Shadow
 - [ ] The Sun Scourge
 - [ ] Tears of the Land-god
-##### Warrior Bows
+###### Warrior Bows
 - [ ] Carja Behemoth Short Bow
 - [ ] Shock Warrior Bow
 - [ ] Swift Warrior Bow
@@ -34,7 +34,7 @@
 - [ ] Renegade Warrior Bow
 - [ ] Carja's Bane
 - [ ] Rain of Sparks
-##### Sharpshot Bows
+###### Sharpshot Bows
 - [ ] Knockdown Sharpshot Bow
 - [ ] Kue's Sharpshot Bow
 - [ ] Sharpshot Bow
@@ -47,7 +47,7 @@
 - [ ] Warden Sharpshot Bow
 - [ ] Forgefall
 - [ ] Iriv's Downfall
-##### Blastslings
+###### Blastslings
 - [ ] Adhesive Blastsling
 - [ ] Explosive Blastsling
 - [ ] Frost Blastsling
@@ -60,7 +60,7 @@
 - [ ] Rampart Blastsling
 - [ ] Wings of the Ten
 - [ ] Legacy's Reach
-##### Shredder Gauntlets
+###### Shredder Gauntlets
 - [ ] Boomer's Shredder Gauntlet
 - [ ] Ironeater Shredder Gauntlet
 - [ ] Piercing Shredder Gauntlet
@@ -70,7 +70,7 @@
 - [ ] Thunderbolt Shredder Gauntlet
 - [ ] Ancestor's Return
 - [ ] The Final Chapter
-##### Spike Throwers
+###### Spike Throwers
 - [ ] Impact Spike Thrower
 - [ ] Prototype Spike Thrower
 - [ ] Bellowblast Spike Thrower
@@ -81,7 +81,7 @@
 - [ ] Vindicator Spike Thrower
 - [ ] The Skykiller
 - [ ] Defiance
-##### Tripcasters
+###### Tripcasters
 - [ ] Explosive Tripcaster
 - [ ] Shock Tripcaster
 - [ ] Beamwire Tripcaster
@@ -92,13 +92,13 @@
 - [ ] Perimeter Tripcaster
 - [ ] Tinker's Pride
 - [ ] All-Mother's Blessing
-##### Ropecaster
+###### Ropecaster
 - [ ] Ropecaster
 - [ ] Anchor Ropecaster
 - [ ] Canister Ropecaster
 - [ ] Eventide Ropecaster
 - [ ] Elite Canister Ropecaster
-##### Boltblaster
+###### Boltblaster
 - [ ] Hammerburst Boltblaster
 - [ ] Plasma Boltblaster
 - [ ] Puncturing Boltblaster
@@ -108,7 +108,7 @@
 - [ ] Skystrike Boltblaster
 - [ ] The Blast Forge
 - [ ] Brawlbreaker
-##### Spears
+###### Spears
 - [ ] [Aloy's Spear](https://www.ign.com/wikis/horizon-2-forbidden-west/Spears#Aloy.27s_Spear)
 	- Stats
 		- 100% Damage, 100% Charge Speed, 100% Discharge Damage, 100% Energized Duration, 100% Resonator Blast Damage, 100% Critical Strike Damage, 100% Silent Strike Damage, 100% Power Attack Damage
@@ -123,5 +123,6 @@
 	- Horizon Forbidden West Pre-Order bonus
 	- Spear from Horizon Zero Dawn
 
-##### Damage Calculus
+#### Additional Information
+###### Damage Calculus
 _TODO

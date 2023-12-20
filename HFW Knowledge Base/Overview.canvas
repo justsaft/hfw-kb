@@ -1,11 +1,13 @@
 {
 	"nodes":[
-		{"id":"c211e217d3a245c2","type":"file","file":"HFW Knowledge Base/All Outfit Dyes.md","x":-700,"y":-840,"width":400,"height":500},
-		{"id":"db1214f569b0abef","type":"file","file":"HFW Knowledge Base/All Machines.md","x":-260,"y":-840,"width":400,"height":500},
-		{"id":"0b9399ab7ffc897f","type":"file","file":"HFW Knowledge Base/Hundo Checklist.md","x":-1140,"y":-300,"width":400,"height":540},
-		{"id":"8b9c1fab1240654d","type":"file","file":"HFW Knowledge Base/All Outfits.md","x":-1140,"y":-840,"width":400,"height":500},
-		{"id":"16efe5021add9ebd","type":"file","file":"HFW Knowledge Base/Speedrun Loadouts.md","x":-690,"y":-300,"width":400,"height":540},
-		{"id":"ec19a7aebf63d498","x":-257,"y":-300,"width":400,"height":540,"type":"file","file":"HFW Knowledge Base/Merchant Data.md"}
+		{"id":"6aaa9fa8ec9e84e8","type":"file","file":"HFW Knowledge Base/About.md","x":-1576,"y":-880,"width":400,"height":540},
+		{"id":"5f8e5e4472a8af24","type":"file","file":"HFW Knowledge Base/All Weapons.md","x":-1576,"y":-300,"width":400,"height":540},
+		{"id":"ec19a7aebf63d498","type":"file","file":"HFW Knowledge Base/Merchant Data.md","x":300,"y":-880,"width":540,"height":1120},
+		{"id":"db1214f569b0abef","type":"file","file":"HFW Knowledge Base/All Machines.md","x":-240,"y":-880,"width":500,"height":1120},
+		{"id":"8b9c1fab1240654d","type":"file","file":"HFW Knowledge Base/All Outfits.md","x":-1140,"y":-300,"width":400,"height":540},
+		{"id":"0b9399ab7ffc897f","type":"file","file":"HFW Knowledge Base/Hundo Checklist.md","x":-1140,"y":-880,"width":400,"height":540},
+		{"id":"c211e217d3a245c2","type":"file","file":"HFW Knowledge Base/All Outfit Dyes.md","x":-700,"y":-300,"width":420,"height":540},
+		{"id":"16efe5021add9ebd","type":"file","file":"HFW Knowledge Base/Speedrun Loadouts.md","x":-700,"y":-880,"width":420,"height":540}
 	],
 	"edges":[]
 }
