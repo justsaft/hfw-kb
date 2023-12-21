@@ -1,6 +1,5 @@
 ### Summary
-
-
+Infinite Jumps, or Infinite jumping is a technique and bug that, doesn't allow the player to jump an infnite amount of times in place, rather it allows a player to scale over every wall in the game. Yes, even the shield around the Zenith base.
 
 ### How to Do
 ##### Prerequisite

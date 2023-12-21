@@ -1,17 +1,19 @@
 ### Table of Content
-1. [[#General]]
-2. [[#Helpful Notes]]
-3. [[#Checklist]]
-4. [[#Overview Tables (WIP)]]
-	1. [[#Acquisition Machines]]
-	2. [[#Combat Machines]]
-	3. [[#Recon Machines]]
-	4. [[#Transport Machines]]
-5. [[#Additional Machines]]
+1. [General](#general)
+2. [Helpful Notes](#helpful-notes)
+3. [Checklist](#checklist)
+4. [Machine Tables](#machine-tables)
+   1. [Acquisition Machines](#acquisition-machines)
+   2. [Combat Machines](#combat-machines)
+   3. [Recon Machines](#recon-machines)
+   4. [Transport Machines](#transport-machines)
+5. [Additional Machines](#additional-machines)
 
 ## General
 This is a (almost) complete index of all machines in Horizon Forbidden West, plus some useful information.
+
 All Data is taken straight from the In-Game Notebook.
+
 > Note: Location given in Tables is just one location the machine spawns at, given as an example, but useful for 100% completion
 
 > Note: Machines under Addition Machines are not required for 100%
@@ -173,7 +175,8 @@ All Data is taken straight from the In-Game Notebook.
 	- [ ] Waterwing
 	- [ ] Apex Waterwing
 - [ ] Horus
-## Overview Tables (WIP)
+## Machine Tables
+***Work in Progress***
 #### Acquisition Machines
 ###### Main Game
 |Machine|Variant or #|Weak Against|Stong Against|Origin|Example Location|Overridable|

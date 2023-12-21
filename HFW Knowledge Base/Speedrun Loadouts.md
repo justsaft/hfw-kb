@@ -84,7 +84,7 @@
 |Placeholder|Tenakth Vanquisher|Placeholder|Entire run|
 
 **Source**
-> https://www.youtube.com/watch?v=F659xIXvJXk
+> [https://www.youtube.com/watch?v=F659xIXvJXk](https://www.youtube.com/watch?v=F659xIXvJXk)
 
 #### Main Game NG+ (Story for Patch 1.18/PS4)
 ###### Loadout from
