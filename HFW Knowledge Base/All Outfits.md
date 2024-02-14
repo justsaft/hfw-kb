@@ -1,57 +1,63 @@
 ##### Carja
-- [ ] Carja Behemoth Elite (Digital Deluxe, Collector's, and Regalla Editions bonus)
-- [ ] Carja Behemoth Trapper
-- [ ] Carja Blazon
-- [ ] Carja Shadow
-- [ ] Carja Stalker Elite
-- [ ] Carja Trader
-- [ ] Carja Wanderer
+- [ ] Carja Behemoth Elite
+	- Digital Deluxe, Collector's, and Regalla Editions bonus
+- [x] Carja Behemoth Trapper
+- [x] Carja Blazon
+- [x] Carja Shadow
+- [x] Carja Stalker Elite
+- [x] Carja Trader
+- [x] Carja Wanderer
 ##### Nora
 - [ ] Nora Anointed
-- [ ] Nora Champion
-- [ ] Nora Huntress
-- [ ] Nora Legacy (all pre-order editions bonus)
-- [ ] Nora Lookout
-- [ ] Nora Sentinel
-- [ ] Nora Thunder Elite (Digital Deluxe, Collector's, and Regalla Editions bonus)
-- [ ] Nora Thunder Warrior
-- [ ] Nora Tracker
-- [ ] Nora Valiant
+- [x] Nora Champion
+- [x] Nora Huntress
+- [ ] Nora Legacy
+	- All pre-order editions bonus
+- [x] Nora Lookout
+- [x] Nora Sentinel
+- [ ] Nora Thunder Elite
+	- Digital Deluxe, Collector's, and Regalla Editions bonus
+- [x] Nora Thunder Warrior
+- [x] Nora Tracker
+- [x] Nora Valiant
 ##### Oseram
-- [ ] Oseram Arrow Breaker
-- [ ] Oseram Artificer
-- [ ] Oseram Explorer
-- [ ] Oseram Forester
-- [ ] Oseram Striker
-- [ ] Oseram Vanguard
-- [ ] Oseram Wayfarer
+- [x] Oseram Arrow Breaker
+	- Buy at Merchant - Maw of the Arena (2 more)
+- [x] Oseram Artificer
+	- Unlocked via Activities - Complete all Savage Contracts
+- [x] Oseram Explorer
+- [x] Oseram Forester
+- [x] Oseram Striker
+- [x] Oseram Vanguard
+- [x] Oseram Wayfarer
 ##### Quen
-- [ ] Blacktide Quen Commander (Burning Shores pre-order bonus)
-- [ ] Quen Commander
-- [ ] Quen Deadeye
-- [ ] Quen Marine
-- [ ] Sobeck's Raiment
+- [x] Blacktide Quen Commander
+	- Burning Shores pre-order bonus
+- [x] Quen Commander
+- [x] Quen Deadeye
+- [x] Quen Marine
+- [x] Sobeck's Raiment
 
 ##### Tenakth
-- [ ] Tenakth Dragoon
-- [ ] Tenakth High Marshal
-- [ ] Tenakth Marauder
-- [ ] Tenakth Marshal
-- [ ] Tenakth Reaver
-- [ ] Tenakth Recon
-- [ ] Tenakth Skirmisher
-- [ ] Tenakth Sky Climber
-- [ ] Tenakth Tactician
-- [ ] Tenakth Vanquisher
-- [ ] Tenakth Vindicator
+- [x] Tenakth Dragoon
+- [x] Tenakth High Marshal
+- [x] Tenakth Marauder
+- [x] Tenakth Marshal
+- [x] Tenakth Reaver
+- [x] Tenakth Recon
+- [x] Tenakth Skirmisher
+- [x] Tenakth Sky Climber
+- [x] Tenakth Tactician
+- [x] Tenakth Vanquisher
+- [x] Tenakth Vindicator
 
 ##### Utaru
-- [ ] Utaru Gravesinger
-- [ ] Utaru Hardweave
-- [ ] Utaru Harvester
-- [ ] Utaru Protector
-- [ ] Utaru Ritesinger
-- [ ] Utaru Thresher
-- [ ] Utaru Warden
-- [ ] Utaru Whisperer
-- [ ] Utaru Winterweave
+- [x] Utaru Gravesinger
+- [x] Utaru Hardweave
+- [x] Utaru Harvester
+- [x] Utaru Protector
+- [x] Utaru Ritesinger
+- [x] Utaru Thresher
+- [x] Utaru Warden
+- [x] Utaru Whisperer
+- [x] Utaru Winterweave

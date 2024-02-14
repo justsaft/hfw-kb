@@ -1,4 +1,3 @@
-
 #### List of Weapons
 ###### Hunter Bows
 - [ ] Hunter Bow (Starter Weapon)
@@ -108,16 +107,19 @@
 - [ ] Skystrike Boltblaster
 - [ ] The Blast Forge
 - [ ] Brawlbreaker
+###### Special
+- [ ] Specter Gauntlet
+- [ ] Toy Bow
 ###### Spears
-- [ ] [Aloy's Spear](https://www.ign.com/wikis/horizon-2-forbidden-west/Spears#Aloy.27s_Spear)
+- Aloy's Spear
 	- Stats
 		- 100% Damage, 100% Charge Speed, 100% Discharge Damage, 100% Energized Duration, 100% Resonator Blast Damage, 100% Critical Strike Damage, 100% Silent Strike Damage, 100% Power Attack Damage
 	- Spear during the Tutorial
-- [ ] [Champion's Spear](https://www.ign.com/wikis/horizon-2-forbidden-west/Spears#Champion.27s_Spear)
+- Champion's Spear
 	- Stats
 		- 170% Damage, 130% Charge Speed, 100% Discharge Damage, 100% Energized Duration, 170% Resonator Blast Damage, 150% Critical Strike Damage, 125% Silent Strike Damage, 120% Power Attack Damage
 	- Spear given to you by Sun-King Avad during "The Point of the Lance."
-- [ ] [Nora Legacy Spear](https://www.ign.com/wikis/horizon-2-forbidden-west/Spears#Nora_Legacy_Spear)
+- Nora Legacy Spear
 	- Stats
 		- same as Aloy's Spear
 	- Horizon Forbidden West Pre-Order bonus
@@ -125,4 +127,4 @@
 
 #### Additional Information
 ###### Damage Calculus
-_TODO
+_TODO_

@@ -1,5 +1,5 @@
 #### HSC Resources
-###### Merchant Data
+###### Merchant Data by everydayaussie and contributors
 - [https://docs.google.com/document/d/1RCRbuLAjNy1eb5SsqSA2210UpZ0m60otYGGxsionIDw/edit](https://docs.google.com/document/d/1RCRbuLAjNy1eb5SsqSA2210UpZ0m60otYGGxsionIDw/edit)
 ###### The Horizon Speedrun Wiki
 - [https://wiki.frameperfect.space](https://wiki.frameperfect.space)

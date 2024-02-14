@@ -14,8 +14,7 @@ This is a (almost) complete index of all machines in Horizon Forbidden West, plu
 
 All Data is taken straight from the In-Game Notebook.
 
-> Note: Location given in Tables is just one location the machine spawns at, given as an example, but useful for 100% completion
-
+> Note: Location given in Tables is just one location the machine spawns at, given as an example, but useful for 100% completion\
 > Note: Machines under Addition Machines are not required for 100%
 
 ## Helpful Notes
